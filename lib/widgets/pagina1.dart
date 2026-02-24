@@ -7,7 +7,7 @@ class PaginaUno extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Inicio", style: TextStyle(color: Colors.white)),
+        title: const Text("Inicio  ", style: TextStyle(color: Colors.white)),
         backgroundColor: const Color.fromARGB(255, 0, 100, 182),
         iconTheme: const IconThemeData(color: Color.fromARGB(255, 255, 255, 255)),
         centerTitle: true,
@@ -17,7 +17,7 @@ class PaginaUno extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             const Text(
-              "Página Inicial",
+              "Página Inicial \n Alexander Cancino Fernandez 6I",
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
             const SizedBox(height: 20),
