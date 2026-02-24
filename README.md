@@ -1,7 +1,14 @@
 # myapp
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
+<img width="178" height="318" alt="image" src="https://github.com/user-attachments/assets/1bc56f69-5bb5-4960-ad8e-32286a3ea383" />
+
+<img width="611" height="340" alt="image" src="https://github.com/user-attachments/assets/68b5c638-0c9b-4465-b0bb-375270848bce" />
+<img width="614" height="365" alt="image" src="https://github.com/user-attachments/assets/a251afb9-23fd-430f-803c-110973f77389" />
+<img width="607" height="332" alt="image" src="https://github.com/user-attachments/assets/5e082c40-7d37-48ec-846c-1e0e8812f6f1" />
+
+
+
+
+
 
 A new Flutter project.
 
